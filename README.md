@@ -8,3 +8,5 @@ Note: fig. 6 notebook requires to be run after fig. 5 notebook to read in proper
 figSX.ipynb are for supplemental figures.
 
 All satellite imagery can be visualized (https://worldview.earthdata.nasa.gov/) and downloaded (https://search.earthdata.nasa.gov/) here.
+
+Seal data can be downloaded here (**insert link once published**).
