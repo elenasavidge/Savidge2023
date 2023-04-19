@@ -9,4 +9,4 @@ figSX.ipynb are for supplemental figures.
 
 All MODIS imagery can be visualized in [NASA Worldview](https://worldview.earthdata.nasa.gov/) and downloaded from [NASA Earthdata](https://search.earthdata.nasa.gov/). 2019 Landsat scenes in fig3.ipynb can be downloaded from [USGS EarthExplorer](https://earthexplorer.usgs.gov/).
 
-Seal data can be downloaded here (**insert link once published**).
+Seal data can be downloaded here (https://doi.org/10.5281/zenodo.7696898).
